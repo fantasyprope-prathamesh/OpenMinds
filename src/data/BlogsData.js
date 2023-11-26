@@ -22,7 +22,7 @@ const blogsData = [
       title: "Mindfulness Meditation Guide",
       date: "2023-03-20",
       author: "Sophie Anderson",
-      image: "https://source.unsplash.com/r56oO1V5oms",
+      image: "https://source.unsplash.com/DFtjXYd5Pto",
       description: "A step-by-step guide to incorporating mindfulness meditation into your daily routine.",
       deepdescription : "Embark on a comprehensive mindfulness journey, starting with foundational concepts and progressing to advanced meditation practices. Immerse yourself in guided sessions, mindfulness exercises for everyday life, and mindfulness-based stress reduction (MBSR) techniques for holistic well-being."
     },
@@ -31,7 +31,7 @@ const blogsData = [
       title: "Navigating Anxiety",
       date: "2023-04-15",
       author: "David Brown",
-      image: "https://source.unsplash.com/IbQJRu_z0os",
+      image: "https://source.unsplash.com/FtZL0r4DZYk",
       description: "Tips and strategies for navigating anxiety and fostering emotional resilience.",
       deepdescription : "Gain a nuanced understanding of anxiety disorders and their impact on mental health. Explore evidence-based therapeutic approaches, mindfulness-based interventions, and self-help strategies to navigate various types of anxiety and cultivate emotional resilience."
     },
@@ -40,7 +40,7 @@ const blogsData = [
       title: "Balancing Work and Mental Health",
       date: "2023-05-08",
       author: "Emily White",
-      image: "https://source.unsplash.com/DFtjXYd5Pto",
+      image: "https://source.unsplash.com/tvc5imO5pXk",
       description: "Achieving a healthy balance between work commitments and mental well-being.",
       deepdescription : "Navigate the intricate relationship between professional commitments and mental well-being. Dive into workplace stressors, time management strategies, and boundary-setting techniques to strike a harmonious balance between career success and mental health."
     },

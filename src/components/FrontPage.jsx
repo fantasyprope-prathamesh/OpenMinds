@@ -5,6 +5,8 @@ import { useSelector, useDispatch } from "react-redux";
 import { updateCurrentBlog } from "../Redux/slice";
 import { useNavigate , Link } from "react-router-dom";
 import { findNonSerializableValue } from "@reduxjs/toolkit";
+import NavBar from "./Navbar";
+import Footer from "./Footer";
 
 const FrontPage = () => {
   const navigate = useNavigate();
@@ -21,11 +23,7 @@ const FrontPage = () => {
   return (
     <>
       {/* header section */}
-      <div className="header-section">
-        <div className="logo-name">
-          <h2>MindOpens</h2>
-        </div>
-      </div>
+      <NavBar />
 
       {/* blog cards section */}
       <div
@@ -128,6 +126,9 @@ const FrontPage = () => {
           );
         })}
       </div>
+
+      {/* footer ===================================================================== */}
+      <Footer/>
     </>
   );
 };
