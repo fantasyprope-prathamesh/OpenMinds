@@ -40,7 +40,7 @@ const blogsData = [
       title: "Balancing Work and Mental Health",
       date: "2023-05-08",
       author: "Emily White",
-      image: "https://source.unsplash.com/1xkfdYwQ67U",
+      image: "https://source.unsplash.com/DFtjXYd5Pto",
       description: "Achieving a healthy balance between work commitments and mental well-being.",
       deepdescription : "Navigate the intricate relationship between professional commitments and mental well-being. Dive into workplace stressors, time management strategies, and boundary-setting techniques to strike a harmonious balance between career success and mental health."
     },
@@ -49,7 +49,7 @@ const blogsData = [
       title: "The Impact of Sleep on Mental Health",
       date: "2023-06-12",
       author: "Daniel Miller",
-      image: "https://source.unsplash.com/FcdtuGf7TEc",
+      image: "https://source.unsplash.com/WQC8HvAU2SY",
       description: "Exploring the crucial connection between quality sleep and mental health.",
       deepdescription : "Explore the multifaceted connection between sleep quality and mental well-being. Delve into the stages of sleep, circadian rhythms, and actionable tips for improving sleep hygiene. Understand how sleep impacts mood, cognitive function, and overall mental resilience."
     },
@@ -58,7 +58,7 @@ const blogsData = [
       title: "Self-Compassion Practices",
       date: "2023-07-25",
       author: "Olivia Davis",
-      image: "img7.jpg",
+      image: "https://source.unsplash.com/aIYFR0vbADk",
       description: "Cultivating self-compassion through practical and meaningful practices.",
       deepdescription : "Immerse yourself in the art of self-compassion, exploring practices that go beyond the surface. From self-compassion meditations to cultivating a positive inner dialogue, discover transformative approaches to building a compassionate and nurturing relationship with yourself."
     },
@@ -67,7 +67,7 @@ const blogsData = [
       title: "Social Connection and Well-Being",
       date: "2023-08-18",
       author: "William Turner",
-      image: "https://source.unsplash.com/vb2qWEax4pM",
+      image: "https://source.unsplash.com/eVPxIeMubl8",
       description: "Examining the positive impact of social connections on overall well-being.",
       deepdescription : "Examine the intricate web of social connections and their profound effects on mental and emotional health. Uncover the science behind social bonding, explore the impact of loneliness, and discover strategies for fostering authentic connections that contribute to overall well-being."
     },
@@ -76,7 +76,7 @@ const blogsData = [
       title: "Healthy Habits for a Happy Mind",
       date: "2023-09-10",
       author: "Sophia Garcia",
-      image: "https://source.unsplash.com/0y_DB18swVc",
+      image: "https://source.unsplash.com/KYZoOmpn1Aw",
       description: "Incorporating daily habits that contribute to a happy and resilient mind.",
       deepdescription : "Develop a personalized toolkit of healthy habits designed to enhance mental resilience. Dive into the realms of nutrition, exercise, and mindfulness practices, exploring the interconnectedness of physical and mental well-being for sustained happiness."
     },
@@ -85,7 +85,7 @@ const blogsData = [
       title: "Coping with Life Transitions",
       date: "2023-10-22",
       author: "Benjamin Harris",
-      image: "https://source.unsplash.com/U4BHlK9RO_A",
+      image: "https://source.unsplash.com/NtxkQvKikWs",
       description: "Strategies for coping with and embracing life transitions for improved mental health.",
       deepdescription : "Navigate the ebb and flow of life transitions with a comprehensive guide. Explore resilience-building techniques, psychological theories of adaptation, and personal narratives of triumph over adversity. Embrace change as an opportunity for growth and self-discovery on the path to improved mental health."
     }

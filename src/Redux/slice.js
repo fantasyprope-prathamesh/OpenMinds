@@ -3,10 +3,13 @@ import { createSlice } from '@reduxjs/toolkit';
 
 export const currentBlog = createSlice({
     name : "currentBlog",
-    initialState: { value : null },
+    initialState: { value : ""},
     reducers : {
 
         updateCurrentBlog : (state,action)=>{
+            // if(state.value == ""){
+            //     state.value = action.payload
+            // }
             state.value = action.payload
         },
 
